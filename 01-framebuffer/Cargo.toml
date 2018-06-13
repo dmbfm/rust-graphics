@@ -1,0 +1,9 @@
+[package]
+name = "rust-graphics-01-framebuffer"
+version = "0.1.0"
+authors = ["Daniel Fortes <daniel.mbfm@gmail.com>"]
+
+[dependencies]
+sdl2 = "0.31"
+rand = "0.5"
+stdweb = "0.4.6"
